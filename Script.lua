@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://test-mrbeast-znxontop.vercel.app/scripts/all_in_one.lua"))({"MTQ3NjE4OTQyODcyMzc0ODkzNQ"})
+loadstring(game:HttpGet("https://star-scripts.com/api/run/SCZO_Guoe8CLVj5tBI86tG4quaDjHJVb"))()
